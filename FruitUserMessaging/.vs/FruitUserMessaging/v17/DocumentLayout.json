@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68EEBDBA-7F4D-4FF8-9645-D6639DE579EC}|Validation\\Validation.csproj|c:\\users\\sousa\\downloads\\fruitusermessaging\\validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EEBDBA-7F4D-4FF8-9645-D6639DE579EC}|Validation\\Validation.csproj|solutionrelative:validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13042DB9-2888-48E2-921B-1DFEB70512C7}|Model\\Model.csproj|c:\\users\\sousa\\downloads\\fruitusermessaging\\model\\fruitmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13042DB9-2888-48E2-921B-1DFEB70512C7}|Model\\Model.csproj|solutionrelative:model\\fruitmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD07620D-0A5D-41FE-8B29-988C3F68D0F1}|Receiver1\\Receiver1.csproj|c:\\users\\sousa\\downloads\\fruitusermessaging\\receiver1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD07620D-0A5D-41FE-8B29-988C3F68D0F1}|Receiver1\\Receiver1.csproj|solutionrelative:receiver1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C820F00E-99AA-4045-8372-E207521EA352}|Sender1\\Sender1.csproj|c:\\users\\sousa\\downloads\\fruitusermessaging\\sender1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C820F00E-99AA-4045-8372-E207521EA352}|Sender1\\Sender1.csproj|solutionrelative:sender1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598947D-A31F-4F1B-A4D8-A99749322685}|Sender2\\Sender2.csproj|c:\\users\\sousa\\downloads\\fruitusermessaging\\sender2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598947D-A31F-4F1B-A4D8-A99749322685}|Sender2\\Sender2.csproj|solutionrelative:sender2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FruitMessage.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Model\\FruitMessage.cs",
+              "RelativeDocumentMoniker": "Model\\FruitMessage.cs",
+              "ToolTip": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Model\\FruitMessage.cs",
+              "RelativeToolTip": "Model\\FruitMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:50:25.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Receiver1\\Program.cs",
+              "RelativeDocumentMoniker": "Receiver1\\Program.cs",
+              "ToolTip": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Receiver1\\Program.cs",
+              "RelativeToolTip": "Receiver1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:49:19.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Sender2\\Program.cs",
+              "RelativeDocumentMoniker": "Sender2\\Program.cs",
+              "ToolTip": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Sender2\\Program.cs",
+              "RelativeToolTip": "Sender2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:48:46.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Validation\\Program.cs",
+              "RelativeDocumentMoniker": "Validation\\Program.cs",
+              "ToolTip": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Validation\\Program.cs",
+              "RelativeToolTip": "Validation\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:46:54.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Sender1\\Program.cs",
+              "RelativeDocumentMoniker": "Sender1\\Program.cs",
+              "ToolTip": "C:\\Users\\sousa\\Downloads\\FruitUserMessaging\\Sender1\\Program.cs",
+              "RelativeToolTip": "Sender1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:46:34.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
