@@ -1,4 +1,4 @@
-# FruitUserMessaging
+# FruitUserMessaging 🍓
 
 Aplicativo de console em C# que implementa um sistema de mensageria usando RabbitMQ para envio e recebimento de mensagens sobre frutas de época e dados de usuário, com validação intermediária.
 
